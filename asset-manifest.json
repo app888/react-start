@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/app888.github.io/static/css/main.9345b6e2.css",
-    "main.js": "/app888.github.io/static/js/main.379db208.js",
-    "index.html": "/app888.github.io/index.html",
-    "main.9345b6e2.css.map": "/app888.github.io/static/css/main.9345b6e2.css.map",
-    "main.379db208.js.map": "/app888.github.io/static/js/main.379db208.js.map"
+    "main.css": "/app888.github.io/react-start/static/css/main.9345b6e2.css",
+    "main.js": "/app888.github.io/react-start/static/js/main.379db208.js",
+    "index.html": "/app888.github.io/react-start/index.html",
+    "main.9345b6e2.css.map": "/app888.github.io/react-start/static/css/main.9345b6e2.css.map",
+    "main.379db208.js.map": "/app888.github.io/react-start/static/js/main.379db208.js.map"
   },
   "entrypoints": [
     "static/css/main.9345b6e2.css",
